@@ -1,13 +1,19 @@
-# Hi, I'm Dhekra Balbouli 👋
-
+ 
 <div align="center">
 
-### Networking • Linux • Cybersecurity • DevOps
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=220&section=header&text=Dhekra%20Balbouli&fontSize=52&fontColor=8E3158&fontAlignY=38&desc=Networks%20%7C%20Systems%20%7C%20Cloud%20%26%20DevOps&descSize=17&descColor=8E3158&descAlignY=60&animation=fadeIn" width="100%" alt="Dhekra Balbouli banner"/>
 
-*IT Student | Network & Systems Administration | Exploring Cloud and Automation*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=D6336C&center=true&vCenter=true&width=750&lines=IT+Student+%7C+Networks+%26+Systems;Exploring+Cloud+%26+DevOps+Technologies;Building%2C+Automating+%26+Learning+Every+Day" alt="Typing introduction"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-DhekraBalbouli-5B3A4A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhekraBalbouli)
-[![Profile](https://komarev.com/ghpvc/?username=DhekraBalbouli&color=D6336C&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DhekraBalbouli)
+<br/>
+
+<a href="https://github.com/DhekraBalbouli">
+<img src="https://img.shields.io/badge/GitHub-DhekraBalbouli-8E3158?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DhekraBalbouli?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-F8C8DC?style=for-the-badge&logo=github&logoColor=8E3158"/>
+</a>
 
 </div>
 
@@ -15,176 +21,169 @@
 
 ## 🌸 About Me
 
-I'm a third-year **Information Technology student**, specializing in **Computer Networks and Systems (RSI)** at **ISET Bizerte, Tunisia**.
+Hello! I'm **Dhekra Balbouli**, an IT student specializing in **Computer Networks and Systems** at ISET Bizerte, Tunisia.
 
-I'm interested in designing, configuring, securing, and automating IT infrastructures. My learning journey focuses on networking, Linux administration, cybersecurity, virtualization, and DevOps practices.
+I'm interested in designing, deploying and managing reliable IT infrastructures, with a growing focus on Cloud Computing and DevOps.
 
-- 🎓 Third-year Licence student in Computer Networks and Systems.
-- 🌐 Interested in enterprise networking and infrastructure administration.
-- 🐧 Practicing Linux system administration and network services.
-- 🔐 Learning cybersecurity concepts and security monitoring.
-- ⚙️ Exploring DevOps, infrastructure automation, and CI/CD.
-- ☁️ Currently developing my knowledge of cloud technologies.
+- 🎓 Computer Science – Networks and Systems.
+- 🌐 Interested in Network Administration and Infrastructure.
+- ☁️ Exploring Cloud Computing and Microsoft Azure.
+- 🐳 Learning DevOps, Docker and Infrastructure Automation.
+- 🗄️ Interested in Database Administration (Oracle).
+- 🔭 Currently working on educational and infrastructure projects.
+- 💼 Open to learning opportunities and a graduation internship.
+
+---
 
 ## 🛠️ Technical Skills
 
-### Networking & Infrastructure
+### 🌐 Networking & Systems
 
-![Cisco](https://img.shields.io/badge/Cisco-CCNA- D6336C?style=flat-square&logo=cisco&logoColor=white)
-![Routing](https://img.shields.io/badge/Routing_%26_Switching-D6336C?style=flat-square)
-![OSPF](https://img.shields.io/badge/OSPF-5B3A4A?style=flat-square)
-![ACL](https://img.shields.io/badge/ACL-5B3A4A?style=flat-square)
-![NAT](https://img.shields.io/badge/NAT-5B3A4A?style=flat-square)
-![VPN](https://img.shields.io/badge/IPsec_VPN-5B3A4A?style=flat-square)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=light" alt="Linux and Bash"/>
+<br/>
+<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Packet%20Tracer-Network%20Simulation-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/GNS3-Network%20Emulation-4A5568?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+</div>
 
-- Routing and switching
-- VLANs, inter-VLAN routing, and ACLs
-- OSPF, NAT/PAT, and site-to-site IPsec VPN
-- Network troubleshooting and traffic analysis
-- DNS, DHCP, Apache, FTP, TFTP, LDAP, and SMTP
+### ☁️ Cloud & DevOps
 
-### Systems & Virtualization
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,terraform,ansible,azure&theme=light" alt="Cloud and DevOps technologies"/>
+</div>
 
-![Linux](https://img.shields.io/badge/Linux-FCC8DD?style=flat-square&logo=linux&logoColor=5B3A4A)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC8DD?style=flat-square&logo=ubuntu&logoColor=5B3A4A)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-FCC8DD?style=flat-square&logo=virtualbox&logoColor=5B3A4A)
-![VMware](https://img.shields.io/badge/VMware-FCC8DD?style=flat-square&logo=vmware&logoColor=5B3A4A)
+### 💻 Programming & Web
 
-- Linux administration
-- Ubuntu Server
-- Virtual machines and virtual networks
-- Network services deployment and configuration
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript&theme=light" alt="Programming and web technologies"/>
+</div>
 
-### DevOps & Automation
+### 🗄️ Databases
 
-![Git](https://img.shields.io/badge/Git-FF8FB1?style=flat-square&logo=git&logoColor=5B3A4A)
-![GitHub](https://img.shields.io/badge/GitHub-FF8FB1?style=flat-square&logo=github&logoColor=5B3A4A)
-![Docker](https://img.shields.io/badge/Docker-FF8FB1?style=flat-square&logo=docker&logoColor=5B3A4A)
-![Ansible](https://img.shields.io/badge/Ansible-FF8FB1?style=flat-square&logo=ansible&logoColor=5B3A4A)
-![Terraform](https://img.shields.io/badge/Terraform-FF8FB1?style=flat-square&logo=terraform&logoColor=5B3A4A)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF8FB1?style=flat-square&logo=githubactions&logoColor=5B3A4A)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+</div>
 
-- Git and GitHub
-- Docker and DockerHub
-- Ansible and Terraform
-- GitHub Actions and CI/CD fundamentals
-- Infrastructure as Code concepts
-
-### Cybersecurity & Monitoring
-
-![Wireshark](https://img.shields.io/badge/Wireshark-FFF0F5?style=flat-square&logo=wireshark&logoColor=5B3A4A)
-![Snort](https://img.shields.io/badge/Snort-FFF0F5?style=flat-square)
-![Splunk](https://img.shields.io/badge/Splunk-FFF0F5?style=flat-square&logo=splunk&logoColor=5B3A4A)
-
-- Network traffic analysis with Wireshark
-- Intrusion Detection Systems (Snort)
-- Security monitoring fundamentals
-- Splunk and log analysis
-- Zabbix monitoring fundamentals
-
-### Programming & Databases
-
-![Python](https://img.shields.io/badge/Python-FFF0F5?style=flat-square&logo=python&logoColor=5B3A4A)
-![SQL](https://img.shields.io/badge/SQL-FFF0F5?style=flat-square&logo=mysql&logoColor=5B3A4A)
-![Oracle](https://img.shields.io/badge/Oracle-FFF0F5?style=flat-square&logo=oracle&logoColor=5B3A4A)
-
-- Python fundamentals
-- SQL and relational databases
-- Oracle Database fundamentals
+---
 
 ## 🚀 Featured Projects
 
-### ☁️ Cloud & DevOps Infrastructure
+<table>
+<tr>
+<td width="50%">
 
-**Virtualized infrastructure with automated deployment and centralized monitoring**
+### 🤖 EduChat
 
-A group project focused on building a local virtualized infrastructure and exploring DevOps automation practices.
+An educational chatbot designed to support programming learning through explanations, quizzes and interactive exercises.
 
-**Technologies:** VirtualBox, Ubuntu Server, Vagrant, Terraform, Ansible, Docker, GitHub Actions, Apache, Bind9, Zabbix, and pfSense.
+**Technologies:** Python
 
-**Main objectives:**
-- Deploy and manage virtual machines.
-- Configure network services and infrastructure components.
-- Automate provisioning and configuration.
-- Explore CI/CD workflows.
-- Centralize infrastructure monitoring.
+<a href="https://github.com/DhekraBalbouli/Educhat_Project_DEVOPS">View Repository →</a>
 
-<sub>Status: In progress</sub>
+</td>
+<td width="50%">
 
-### 💬 EduChat – DevOps Project
+### ✅ Task Manager
 
-A project combining application development and DevOps practices.
+A client-server application for task management, allowing users to add, list, delete and update task statuses.
 
-**Technologies:** Python, Git, GitHub, Docker, DockerHub, and CI/CD.
+**Technologies:** Python
 
-[View repository](https://github.com/DhekraBalbouli/Educhat_Project_DEVOPS)
+<a href="https://github.com/DhekraBalbouli/gestionnaire_taches">View Repository →</a>
 
-### 📋 Task Manager
-
-A task management application project.
-
-[View repository](https://github.com/DhekraBalbouli/gestionnaire_taches)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🐳 Docker Swarm Environment
 
-A practical environment for exploring container orchestration with Docker Swarm.
+A practical environment dedicated to exploring Docker Swarm and container orchestration.
 
-[View repository](https://github.com/DhekraBalbouli/docker-swarm-env)
+**Technologies:** Docker
 
-## 🎓 Education
+<a href="https://github.com/DhekraBalbouli/docker-swarm-env">View Repository →</a>
 
-**Licence in Information Technology – Computer Networks and Systems (RSI)**  
-ISET Bizerte, Tunisia  
-Third-year student
+</td>
+<td width="50%">
 
-**Academic achievement:** First in my promotion, with an annual average of 17.89/20.
+### ☁️ Cloud & DevOps Infrastructure
 
-## 💼 Internship Experience
+An ongoing infrastructure project focused on virtualization, automation, web application deployment and centralized monitoring.
 
-### Sotetel — Internship
-**06 January – 31 January 2025**
+**Technologies:** Linux, Vagrant, Terraform, Ansible, Docker and GitHub Actions.
 
-Worked on the design, simulation, and configuration of a hierarchical multi-site enterprise network architecture based on the three-layer model.
+*Repository presentation to be added when published.*
 
-### Tunisie Telecom — Introductory Internship
-Commercial Agency, El Manar
+</td>
+</tr>
+</table>
 
-An introductory experience in a telecommunications environment.
+---
 
-## 📜 Certifications & Learning
-
-- Cisco Networking Academy – CCNA: Introduction to Networks
-- Cisco Networking Academy – CCNA 2
-- Linux Essentials
-- Splunk SOC Analyst learning pathway
-
-**Currently exploring:** Cloud fundamentals, DevOps automation, network security, and infrastructure monitoring.
-
-## 📊 GitHub Overview
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DhekraBalbouli&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=D6336C&text_color=5B3A4A&icon_color=FF8FB1&rank_icon=github" alt="GitHub statistics"/>
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhekraBalbouli&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=D6336C&text_color=5B3A4A&langs_count=8" alt="Most used languages"/>
 
-## 🌐 Connect With Me
+<br/>
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-DhekraBalbouli-5B3A4A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhekraBalbouli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF8FB1?style=for-the-badge&logo=linkedin&logoColor=5B3A4A)](YOUR_LINKEDIN_URL)
-
-📧 **Email:** YOUR_EMAIL_ADDRESS
+<img width="70%" src="https://streak-stats.demolab.com?user=DhekraBalbouli&hide_border=true&background=FFF0F5&ring=FF8FB1&fire=D6336C&currStreakLabel=D6336C&sideLabels=8E3158&currStreakNum=5B3A4A&sideNums=5B3A4A&dates=9A6B80" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-*Learning continuously, building practical skills, and growing in the world of IT infrastructure.*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhekraBalbouli&bg_color=FFF0F5&color=D6336C&line=FF8FB1&point=D6336C&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
 
-**Thanks for visiting my profile! 🌸**
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DhekraBalbouli/DhekraBalbouli/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## 🏅 Certifications & Learning
+
+- Cisco – CCNA: Introduction to Networks.
+- Cisco – CCNA 2.
+- Splunk – SOC Analyst.
+- Linux Essentials.
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/DhekraBalbouli">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Add your real LinkedIn profile URL -->
+<!-- Add your professional email address -->
+
+<br/><br/>
+
+**Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=100&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
