@@ -1,11 +1,10 @@
-name: Metrics
+
+name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 23 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
@@ -13,19 +12,46 @@ permissions:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
+          # Account
           token: ${{ secrets.METRICS_TOKEN }}
           user: DhekraBalbouli
+
+          # Output
+          filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          output_action: commit
+
+          # General settings
           config_timezone: Africa/Tunis
+          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, isocalendar, languages, habits, lines, achievements
+
+          # Main profile sections
+          base: header, activity, community, repositories, metadata
+
+          # Contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+          # Programming languages
           plugin_languages: yes
           plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+
+          # Coding habits
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Code activity
           plugin_lines: yes
+
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
